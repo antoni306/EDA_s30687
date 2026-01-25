@@ -1,0 +1,8 @@
+data/*
+!data/DATASETS.md
+
+.ipynb_checkpoints/
+*.pyc
+
+reports/*.pdf
+reports/*.html
