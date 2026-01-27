@@ -22,7 +22,7 @@ Struktura demograficzna populacji praktyki GP jest naturalnym czynnikiem wpływa
 - `HB`
 - `HSCP`
 - `Sex`
-- kolumny z grupami wieku (np. `AllAges`, `Age0to4`, …, `Age85plus`)
+- kolumny z grupami wieku (np. `AllAges`, `Ages0to4`, …, `Ages85plus`)
 - kolumny jakości `*QF` (jeśli występują)
 
 ### Uwagi / ograniczenia
