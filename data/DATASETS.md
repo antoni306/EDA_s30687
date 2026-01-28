@@ -11,7 +11,7 @@ Liczebności list pacjentów przypisanych do praktyk GP w Szkocji z podziałem n
 Struktura demograficzna populacji praktyki GP jest naturalnym czynnikiem wpływającym na przepływy pacjentów do opieki szpitalnej.
 
 ### Pliki użyte w EDA
-- Plik scalony: `gp_practice_population_demographics_23colfiles_merged_wide.xlsx` (29 plików źródłowych, 23 kolumny)
+- Plik scalony: `/content/gp_practice_population_demographics_merged.xlsx` (29 plików źródłowych, 23 kolumny)
 
 ### Zakres czasowy (dla wersji 23-kolumnowej)
 2014-01-01 do 2021-07-01 (dane kwartalne)
